@@ -1,7 +1,3 @@
-# flutter_application_1
-
-A new Flutter project.
-=======
 # Registration-Form-Hands-On
 Yardan Raditya Rafi' Widyadhana | 2409116037 | Sistem Informasi A 2024
 
